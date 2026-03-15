@@ -16,7 +16,15 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raccoon297&layout=compact&bg_color=60,2450ff,0affad&title_color=000000&text_color=000000"
            /> </div> 
     </div>
-    
+
+I am working on UAV swarm intelligence.
+
+## 🚁 Drone Simulation
+
+![simulation](image/GWO.png)
+
+## 🔧 Tech
+Python / PyTorch
 
 <!--
 **raccoon297/raccoon297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
