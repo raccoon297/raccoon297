@@ -21,7 +21,7 @@ I am working on UAV swarm intelligence.
 
 ## 🚁 Drone Simulation
 
-![simulation](image/GWO.png)
+![image](GWO.png)
 
 ## 🔧 Tech
 Python / PyTorch
