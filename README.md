@@ -17,14 +17,18 @@
            /> </div> 
     </div>
 
-I am working on UAV swarm intelligence.
+
 
 ## 🚁 Drone Simulation
+
+## GWO
 
 ![image](GWO.png)
 
 ## 🔧 Tech
 Python / PyTorch
+
+## PSO
 
 <!--
 **raccoon297/raccoon297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
