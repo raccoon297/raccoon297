@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15bbd1,100:0ec833&height=240&text=RACCOON%20HOUSE&animation=&fontColor=37d2c0&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15bbd1,100:0ec833&height=240&text=RACCOON'S%20FACTORY&animation=&fontColor=37d2c0&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
