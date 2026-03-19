@@ -21,6 +21,13 @@
 
 ## 🚁 Drone Simulation
 
+## PPO Signal Mode
+
+![image](PPO_SG.png)
+
+## 🔧 Tech
+Python / PyTorch / gymnasium
+
 ## GWO
 
 ![image](GWO.png)
@@ -28,7 +35,6 @@
 ## 🔧 Tech
 Python / PyTorch
 
-## PSO
 
 <!--
 **raccoon297/raccoon297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
