@@ -21,6 +21,15 @@
 
 ## 🚁 Drone Simulation
 
+## PPO Search for Signal Source Based RSSI
+
+![image](PPO_SG.png)
+
+![image](PPO_SG.png)
+
+## 🔧 Tech
+Python / PyTorch / gymnasium
+
 ## PPO Ver.2
 
 ![image](PPO_SG.png)
