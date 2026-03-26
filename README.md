@@ -21,7 +21,7 @@
 
 ## 🚁 Drone Simulation
 
-## PPO Signal Mode
+## PPO Ver.2
 
 ![image](PPO_SG.png)
 
