@@ -23,9 +23,8 @@
 
 ## PPO Search for Signal Source Based RSSI
 
-![image](PPO_SG.png)
-
-![image](PPO_SG.png)
+![image](PPO_RSSI_01.png)
+![image](PPO_RSSI_02.png)
 
 ## 🔧 Tech
 Python / PyTorch / gymnasium
