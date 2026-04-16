@@ -42,7 +42,15 @@ Python / PyTorch / gymnasium
 ## 🔧 Tech
 Python / PyTorch
 
+## Image_Processing
 
+## First Project 
+
+![image](Figure_1.png)
+![image](Figure_2.png)
+
+## 🔧 Tech
+Python / opencv / numpy
 <!--
 **raccoon297/raccoon297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
