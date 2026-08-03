@@ -111,16 +111,6 @@ ResNet-18의 분류 정확도와 연산 효율을 비교했습니다.
 
 ---
 
-## Project Collections
-
-| Repository | Focus | Highlights |
-|---|---|---|
-| [**UAV Signal Search & Localization**](https://github.com/raccoon297/UAV_Signal_Search_Localization) | RL · Sensor Fusion · Localization | PPO, LiDAR, A*, RSSI, Kalman+ANN |
-| [**Path Planning Laboratory**](https://github.com/raccoon297/Path_Planning_Practice) | Planning · Optimization · RL | A*, RRT, D* Lite, ACO, GA, GWO, PSO, DQN, PPO |
-| [**Image & Signal Intelligence**](https://github.com/raccoon297/Image_Processing) | Edge AI · Computer Vision | AMC benchmark, image enhancement, hand-gesture game |
-
----
-
 ## Engineering Focus
 
 - 문제 정의부터 데이터 처리, 모델 학습, 정량 평가와 시각화까지 하나의 실행 흐름으로 구성합니다.
