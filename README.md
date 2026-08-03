@@ -2,8 +2,6 @@
 
 # Donghwan Yun
 
-### Machine Learning Engineer · Autonomous Systems
-
 신호 처리와 센서 데이터 분석을 바탕으로,  
 **자율 시스템의 인식과 의사결정을 위한 머신러닝 알고리즘**을 구현합니다.
 
