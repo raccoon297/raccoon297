@@ -31,13 +31,15 @@
   </a>
 </h3>
 
-<a href="https://github.com/raccoon297/UAV_Signal_Search_Localization">
-  <img
-    src="https://raw.githubusercontent.com/raccoon297/UAV_Signal_Search_Localization/main/results/animations/full_pipeline.gif"
-    width="70%"
-    alt="UAV signal search and RSSI localization pipeline"
-  >
-</a>
+<p align="center">
+  <a href="https://github.com/raccoon297/UAV_Signal_Search_Localization">
+    <img
+      src="https://raw.githubusercontent.com/raccoon297/UAV_Signal_Search_Localization/main/results/animations/full_pipeline.gif"
+      width="70%"
+      alt="UAV signal search and RSSI localization pipeline"
+    >
+  </a>
+</p>
 
 PPO 신호원 탐색, LiDAR 장애물 회피, A* 편대 배치와  
 RSSI 기반 위치 추정을 하나의 UAV 파이프라인으로 구현했습니다.
@@ -59,13 +61,15 @@ RSSI 기반 위치 추정을 하나의 UAV 파이프라인으로 구현했습니
   </a>
 </h3>
 
-<a href="https://github.com/raccoon297/Path_Planning_Practice/tree/main/03_Reinforcement_Learning">
-  <img
-    src="https://raw.githubusercontent.com/raccoon297/Path_Planning_Practice/main/03_Reinforcement_Learning/results/comparison/navigation_comparison.gif"
-    width="70%"
-    alt="DQN and PPO navigation comparison"
-  >
-</a>
+<p align="center">
+  <a href="https://github.com/raccoon297/Path_Planning_Practice/tree/main/03_Reinforcement_Learning">
+    <img
+      src="https://raw.githubusercontent.com/raccoon297/Path_Planning_Practice/main/03_Reinforcement_Learning/results/comparison/navigation_comparison.gif"
+      width="70%"
+      alt="DQN and PPO navigation comparison"
+    >
+  </a>
+</p>
 
 동일한 3차원 도시 환경에서 DQN의 이산 위치 제어와  
 PPO의 연속 가속도 제어가 만드는 경로를 비교했습니다.
@@ -87,13 +91,15 @@ PPO의 연속 가속도 제어가 만드는 경로를 비교했습니다.
   </a>
 </h3>
 
-<a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">
-  <img
-    src="https://raw.githubusercontent.com/raccoon297/Image_Processing/main/Automatic_Modulation_Classification/results/model_dashboard.png"
-    width="100%"
-    alt="MobileNetV3 and ResNet-18 AMC model comparison"
-  >
-</a>
+<p align="center">
+  <a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">
+    <img
+      src="https://raw.githubusercontent.com/raccoon297/Image_Processing/main/Automatic_Modulation_Classification/results/model_dashboard.png"
+      width="85%"
+      alt="MobileNetV3 and ResNet-18 AMC model comparison"
+    >
+  </a>
+</p>
 
 I/Q 무선 신호를 성상도 이미지로 변환하고, MobileNetV3와  
 ResNet-18의 분류 정확도와 연산 효율을 비교했습니다.
