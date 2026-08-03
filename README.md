@@ -22,74 +22,89 @@
 
 ---
 
-## Featured Project
+<h2 align="center">Featured Projects</h2>
 
-### [UAV Signal Search & RSSI Localization](https://github.com/raccoon297/UAV_Signal_Search_Localization)
-
-PPO 탐색, LiDAR 장애물 회피, A* 편대 배치와 RSSI 위치 추정을  
-하나의 재현 가능한 UAV 시뮬레이션 파이프라인으로 통합했습니다.
-
-<p align="center">
+<!-- UAV Signal Search -->
+<h3>
   <a href="https://github.com/raccoon297/UAV_Signal_Search_Localization">
-    <img src="https://raw.githubusercontent.com/raccoon297/UAV_Signal_Search_Localization/main/results/animations/full_pipeline.gif" width="900" alt="UAV signal search and localization pipeline">
+    UAV Signal Search & RSSI Localization
+  </a>
+</h3>
+
+<a href="https://github.com/raccoon297/UAV_Signal_Search_Localization">
+  <img
+    src="https://raw.githubusercontent.com/raccoon297/UAV_Signal_Search_Localization/main/results/animations/full_pipeline.gif"
+    width="70%"
+    alt="UAV signal search and RSSI localization pipeline"
+  >
+</a>
+
+PPO 신호원 탐색, LiDAR 장애물 회피, A* 편대 배치와  
+RSSI 기반 위치 추정을 하나의 UAV 파이프라인으로 구현했습니다.
+
+**PPO 탐색 성공률 84.17% · 평균 위치 추정 오차 2.337m**
+
+<p>
+  <a href="https://github.com/raccoon297/UAV_Signal_Search_Localization">
+    <b>View Project →</b>
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center" width="25%"><b>84.17%</b><br>Search Success<br><sub>3,000 episodes</sub></td>
-    <td align="center" width="25%"><b>2.337 m</b><br>Mean Localization Error<br><sub>500 scenarios</sub></td>
-    <td align="center" width="25%"><b>87.0%</b><br>Error Reduction<br><sub>vs. baseline</sub></td>
-    <td align="center" width="25%"><b>0.0187 ms</b><br>ANN Inference<br><sub>mean latency</sub></td>
-  </tr>
-</table>
+<br>
 
-**What I built**
+<!-- 3D Reinforcement Learning -->
+<h3>
+  <a href="https://github.com/raccoon297/Path_Planning_Practice/tree/main/03_Reinforcement_Learning">
+    3D Reinforcement Learning Path Planning
+  </a>
+</h3>
 
-- Continuous-action PPO policy with a `3 × 3` belief map and 16-direction LiDAR
-- Collision-aware triangular deployment of three UAVs using A*
-- LOS·PNLOS·NLOS RSSI sampling from measured data
-- Kalman filtering, a compact ANN and least-squares trilateration
-- Reproducible evaluation scripts, pretrained weights and unit tests
+<a href="https://github.com/raccoon297/Path_Planning_Practice/tree/main/03_Reinforcement_Learning">
+  <img
+    src="https://raw.githubusercontent.com/raccoon297/Path_Planning_Practice/main/03_Reinforcement_Learning/results/comparison/navigation_comparison.gif"
+    width="70%"
+    alt="DQN and PPO navigation comparison"
+  >
+</a>
 
-<p align="right"><a href="https://github.com/raccoon297/UAV_Signal_Search_Localization"><b>View repository →</b></a></p>
+동일한 3차원 도시 환경에서 DQN의 이산 위치 제어와  
+PPO의 연속 가속도 제어가 만드는 경로를 비교했습니다.
 
----
+**DQN · PPO 직접 구현 · 3D UAV Navigation**
 
-## Selected Work
+<p>
+  <a href="https://github.com/raccoon297/Path_Planning_Practice/tree/main/03_Reinforcement_Learning">
+    <b>View Project →</b>
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">Edge-Efficient AMC</a></h3>
-      <a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">
-        <img src="https://raw.githubusercontent.com/raccoon297/Image_Processing/main/Automatic_Modulation_Classification/results/model_dashboard.png" width="100%" alt="Automatic modulation classification model dashboard">
-      </a>
-      <p>
-        RadioML I/Q 신호를 성상도 이미지로 변환하고 MobileNetV3와 ResNet-18의 정확도·연산 효율을 비교했습니다.
-      </p>
-      <p>
-        <b>253× fewer FLOPs</b><br>
-        <b>7.3× smaller model</b><br>
-        <b>1.64 ms CPU inference</b>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/raccoon297/Path_Planning_Practice/tree/main/03_Reinforcement_Learning">3D RL Path Planning</a></h3>
-      <a href="https://github.com/raccoon297/Path_Planning_Practice/tree/main/03_Reinforcement_Learning">
-        <img src="https://raw.githubusercontent.com/raccoon297/Path_Planning_Practice/main/03_Reinforcement_Learning/results/comparison/navigation_comparison.gif" width="100%" alt="DQN and PPO 3D navigation comparison">
-      </a>
-      <p>
-        동일한 3차원 도시 환경에서 DQN의 이산 위치 제어와 PPO의 연속 가속도 제어가 만드는 경로 특성을 비교했습니다.
-      </p>
-      <p>
-        <b>15.9% shorter trajectory</b><br>
-        <b>98.1% lower roughness</b><br>
-        <b>74 steps to goal</b>
-      </p>
-    </td>
-  </tr>
-</table>
+<br>
+
+<!-- Automatic Modulation Classification -->
+<h3>
+  <a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">
+    Edge-Efficient Automatic Modulation Classification
+  </a>
+</h3>
+
+<a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">
+  <img
+    src="https://raw.githubusercontent.com/raccoon297/Image_Processing/main/Automatic_Modulation_Classification/results/model_dashboard.png"
+    width="100%"
+    alt="MobileNetV3 and ResNet-18 AMC model comparison"
+  >
+</a>
+
+I/Q 무선 신호를 성상도 이미지로 변환하고, MobileNetV3와  
+ResNet-18의 분류 정확도와 연산 효율을 비교했습니다.
+
+**MobileNetV3 · 86.12% Validation Accuracy · 253× Fewer FLOPs**
+
+<p>
+  <a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">
+    <b>View Project →</b>
+  </a>
+</p>
 
 ---
 
@@ -109,9 +124,6 @@ PPO 탐색, LiDAR 장애물 회피, A* 편대 배치와 RSSI 위치 추정을
 - 평균 성능만 제시하지 않고 실패 사례, 제약 조건과 해석상의 한계를 함께 기록합니다.
 - VS Code에서 바로 실행할 수 있는 Python 프로젝트 구조와 재현 가능한 명령형 스크립트를 선호합니다.
 
-### Currently Building
-
-**Predictive Maintenance Early Warning** — 고장 발생 여부만 분류하는 대신, 고장을 몇 단계 앞서 감지하는 조기경보 문제를 구현하고 있습니다.
 
 ---
 
