@@ -85,7 +85,7 @@ PPO의 연속 가속도 제어가 만드는 경로를 비교했습니다.
 <!-- Automatic Modulation Classification -->
 <h3>
   <a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">
-    Edge-Efficient Automatic Modulation Classification
+    Lightweight Automatic Modulation Classification
   </a>
 </h3>
 
