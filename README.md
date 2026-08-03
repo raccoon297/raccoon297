@@ -4,8 +4,8 @@
 
 ### Machine Learning Engineer · Autonomous Systems
 
-센서 데이터를 학습 기반 의사결정과 경로 계획으로 연결해  
-**재현 가능하고 검증 가능한 지능형 시스템**을 구현합니다.
+신호 처리와 센서 데이터 분석을 바탕으로,  
+**자율 시스템의 인식과 의사결정을 위한 머신러닝 알고리즘**을 구현합니다.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
