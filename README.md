@@ -44,7 +44,6 @@
 PPO 신호원 탐색, LiDAR 장애물 회피, A* 편대 배치와  
 RSSI 기반 위치 추정을 하나의 UAV 파이프라인으로 구현했습니다.
 
-**PPO 탐색 성공률 84.17% · 평균 위치 추정 오차 2.337m**
 
 <p>
   <a href="https://github.com/raccoon297/UAV_Signal_Search_Localization">
@@ -74,7 +73,6 @@ RSSI 기반 위치 추정을 하나의 UAV 파이프라인으로 구현했습니
 동일한 3차원 도시 환경에서 DQN의 이산 위치 제어와  
 PPO의 연속 가속도 제어가 만드는 경로를 비교했습니다.
 
-**DQN · PPO 직접 구현 · 3D UAV Navigation**
 
 <p>
   <a href="https://github.com/raccoon297/Path_Planning_Practice/tree/main/03_Reinforcement_Learning">
@@ -104,7 +102,6 @@ PPO의 연속 가속도 제어가 만드는 경로를 비교했습니다.
 I/Q 무선 신호를 성상도 이미지로 변환하고, MobileNetV3와  
 ResNet-18의 분류 정확도와 연산 효율을 비교했습니다.
 
-**MobileNetV3 · 86.12% Validation Accuracy · 253× Fewer FLOPs**
 
 <p>
   <a href="https://github.com/raccoon297/Image_Processing/tree/main/Automatic_Modulation_Classification">
