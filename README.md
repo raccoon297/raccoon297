@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
 </p>
 
-`Reinforcement Learning` · `Path Planning` · `Sensor Intelligence` · `Edge AI`
+`Reinforcement Learning` · `Path Planning` · `Sensor Intelligence` · `Sensor Intelligence` · `Edge AI`
 
 </div>
 
